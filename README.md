@@ -1,21 +1,25 @@
-# aws-cloud--projects
-Hands on AWS projects simulating Cloud Support Engineer troubleshooting and deployment scenarios.
-
 # AWS Cloud Projects
 
-This repository contains hands-on AWS projects focused on cloud infrastructure,
-deployment, and troubleshooting scenarios.
+Hands-on AWS projects focused on cloud fundamentals, deployment, and troubleshooting scenarios aligned with Cloud Support Engineer responsibilities.
 
-## Projects
+## Project: AWS Static Resume Website
+**Live Site:** http://tupo-resume-aws.s3-website-us-east-2.amazonaws.com
 
-### AWS Cloud Quest – Cloud Practitioner
-Hands-on labs completed through AWS Training & Certification covering:
-- EC2, VPC, IAM, S3
-- Networking fundamentals (DNS, routing, access control)
-- Security concepts and high availability architectures
+### Description
+Designed and deployed a static resume website using Amazon S3 static website hosting to demonstrate cloud deployment, security configuration, and troubleshooting skills.
 
-### Cloud Static Website Hosting (AWS)
-- Static website hosted using AWS S3
-- Configured bucket permissions and access policies
-- Validated HTTP/DNS access paths
-- Architecture migrated from Microsoft Azure to AWS
+### Technologies Used
+- Amazon S3
+- AWS IAM
+- HTML, CSS, JavaScript
+
+### Key Responsibilities
+- Configured S3 bucket policies and public access settings to securely host static content
+- Hosted and validated HTML, CSS, and JavaScript frontend over HTTP
+- Troubleshot access issues related to S3 object permissions and bucket policies
+- Migrated a static site architecture from Microsoft Azure to AWS
+
+---
+
+## Additional Experience
+Completed AWS Cloud Quest labs covering EC2, VPC, IAM, S3, networking, security groups, and cloud fundamentals.
