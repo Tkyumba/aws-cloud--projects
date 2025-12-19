@@ -3,7 +3,7 @@
 Hands-on AWS projects focused on cloud fundamentals, deployment, and troubleshooting scenarios aligned with Cloud Support Engineer responsibilities.
 
 ## Project: AWS Static Resume Website
-**Live Site:** http://tupo-resume-aws.s3-website-us-east-2.amazonaws.com
+**Live Site:** http://tupo-resume-aws.s3-website.us-east-2.amazonaws.com/
 
 ### Description
 Designed and deployed a static resume website using Amazon S3 static website hosting to demonstrate cloud deployment, security configuration, and troubleshooting skills.
